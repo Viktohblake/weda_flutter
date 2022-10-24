@@ -1,6 +1,9 @@
 
 # Weda App ☁
 
+![Annotation 2022-10-13 102549](https://user-images.githubusercontent.com/33007435/197597185-60527307-1423-4483-a721-68029021902b.png)
+![Annotation 2022-10-13 102616](https://user-images.githubusercontent.com/33007435/197597198-4238bd66-deab-4d94-8e42-b2308f394ccb.png)
+
 ## The Goal
 
 On making of this project I learnt asynchronous programming in Dart. Carried out time consuming tasks such as getting device location and networking to get data from the internet. 
